@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings": [
+    {"name":"intro","order":10,"path":"folders/Sprites/intro.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"obj_player_follow","order":1,"path":"objects/obj_player_follow/obj_player_follow.yy",},
+    {"name":"obj_runner_spawner","order":3,"path":"objects/obj_runner_spawner/obj_runner_spawner.yy",},
+    {"name":"obj_flyer","order":6,"path":"objects/obj_flyer/obj_flyer.yy",},
+    {"name":"obj_enemy","order":5,"path":"objects/obj_enemy/obj_enemy.yy",},
+    {"name":"spr_block","order":1,"path":"sprites/spr_block/spr_block.yy",},
+    {"name":"spr_explosion","order":4,"path":"sprites/spr_explosion/spr_explosion.yy",},
+    {"name":"spr_player_1","order":3,"path":"sprites/spr_player_1/spr_player_1.yy",},
+    {"name":"obj_intro","order":8,"path":"objects/obj_intro/obj_intro.yy",},
+    {"name":"obj_background","order":7,"path":"objects/obj_background/obj_background.yy",},
+    {"name":"spr_background","order":4,"path":"sprites/spr_background/spr_background.yy",},
+    {"name":"obj_scoreboard","order":2,"path":"objects/obj_scoreboard/obj_scoreboard.yy",},
+    {"name":"spr_planet","order":2,"path":"sprites/spr_planet/spr_planet.yy",},
+    {"name":"rm_intro","order":1,"path":"rooms/rm_intro/rm_intro.yy",},
+    {"name":"spr_flyer","order":3,"path":"sprites/spr_flyer/spr_flyer.yy",},
+    {"name":"spr_enemy","order":2,"path":"sprites/spr_enemy/spr_enemy.yy",},
+    {"name":"spr_block_1","order":11,"path":"sprites/spr_block_1/spr_block_1.yy",},
+  ],
+}
